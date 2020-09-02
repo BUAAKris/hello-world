@@ -2,4 +2,4 @@
 my first repository
 
 Hi human!
-My name is Kris，i hope to be a stastic scientist!
+My name is Kris，i hope to be a statistic scientist!
